@@ -1,0 +1,13 @@
+VIOLATION REPORT — @demo_target_ch [-1009876543210]
+
+ESCALATION: @demo_target_ch crossing into illegal territory. Response needed within hours.
+
+Violation: Scam. Linked infrastructure resolves to a known phishing kit deployment.
+
+Ref:
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://abuse-feed.io/report/aqrx4cu1
+
+Immediate action is the only acceptable outcome.
