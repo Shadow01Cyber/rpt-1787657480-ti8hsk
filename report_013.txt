@@ -1,0 +1,19 @@
+⚠️ Evidence package compiled against @demo_target_ch is summarized below.
+
+The specific violation: Scam
+
+Bot-driven amplification masks the true reach of the operation.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ channel id -1009876543210
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://t.me/demo_target_ch
+
+Logged: 2026-08-25
+
+Please advise on the outcome of your investigation.
