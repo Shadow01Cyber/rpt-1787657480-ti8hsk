@@ -1,0 +1,19 @@
+⚠️ Reference is made to continuing violations attributable to the account identified below.
+
+The specific violation: Scam
+
+The operator rotates aliases to evade prior enforcement actions.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ channel id -1009876543210
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://t.me/demo_target_ch
+
+Logged: 2026-08-25
+
+We trust this matter will receive prompt and appropriate attention.
