@@ -1,0 +1,13 @@
+VIOLATION REPORT — @demo_target_ch [-1009876543210]
+
+The subject account shows a pattern of behavior inconsistent with platform rules.
+
+Violation: Scam. Bulk messaging logs show unsolicited targeting of minors.
+
+Ref:
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://t.me/s/demo_target_ch
+
+Additional evidence available upon request.
