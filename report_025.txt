@@ -1,0 +1,19 @@
+⚠️ TIME-SENSITIVE: @demo_target_ch linked a live phishing payload. Block before more victims.
+
+The specific violation: Scam
+
+Automated fingerprinting links this handle to a known abuse cluster.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ channel id -1009876543210
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://abuse-feed.io/report/4u8cik5f
+
+Logged: 2026-08-25
+
+Immediate action is the only acceptable outcome.
