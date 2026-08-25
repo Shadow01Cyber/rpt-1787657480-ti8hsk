@@ -1,0 +1,19 @@
+⚠️ The subject account shows a pattern of behavior inconsistent with platform rules.
+
+The specific violation: Scam
+
+Linked infrastructure resolves to a known phishing kit deployment.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ channel id -1009876543210
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://osint.vault/fs46764a
+
+Logged: 2026-08-25
+
+Additional evidence available upon request.
