@@ -1,0 +1,13 @@
+VIOLATION REPORT — @demo_target_ch [-1009876543210]
+
+Pursuant to Telegram Terms of Service and applicable law, be advised of the following violation.
+
+Violation: Scam. Financial trail connects the subject to laundered crypto wallets.
+
+Ref:
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://osint.vault/7qu5nc7x
+
+Respectfully submitted for enforcement action without further delay.
