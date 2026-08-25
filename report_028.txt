@@ -1,0 +1,18 @@
+⚠️ Evidence package compiled against @demo_target_ch is summarized below.
+
+The specific violation: Scam
+
+The channel funnels victims into an off-platform payment scheme.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://abuse-feed.io/report/h63r8agp
+
+Logged: 2026-08-25
+
+Please advise on the outcome of your investigation.
