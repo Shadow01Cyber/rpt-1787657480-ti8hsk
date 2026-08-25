@@ -1,0 +1,19 @@
+⚠️ ACT NOW: every hour of delay means new victims for @demo_target_ch.
+
+The specific violation: Scam
+
+Linked infrastructure resolves to a known phishing kit deployment.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ channel id -1009876543210
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://paste.example/intel/bn6cxtzb
+
+Logged: 2026-08-25
+
+Respond within the hour. Victims are accumulating.
