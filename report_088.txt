@@ -1,0 +1,18 @@
+⚠️ On-record violation summary for @demo_target_ch attached for your enforcement team.
+
+The specific violation: Scam
+
+Linked infrastructure resolves to a known phishing kit deployment.
+
+Core violation on record: Scam. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ https://t.me/demo_target_ch/101
+→ https://t.me/demo_target_ch/102
+→ https://t.me/demo_target_ch/103
+→ https://abuse-feed.io/report/35pz3kov
+
+Logged: 2026-08-25
+
+Thank you for reviewing this submission.
